@@ -1,0 +1,69 @@
+#conteneur
+{
+    background-color: #b5f5f2;
+    border: medium black inset;
+    width: 580px;
+    height: 750px;
+    margin: 0px auto 0px auto;
+    position: relative;
+}
+
+#entete{
+    width: 580px;
+    height: 100px;
+    text-align: center;
+    display: inline-block;
+
+}
+#corps
+{
+    position: center;
+    width: 580px;
+    height: 300px;
+}
+
+#contenuDroite
+{
+    width: 350px;
+    height: 300px;
+    float: right;
+    text-align: left;
+    color: black;
+    background-color: dodgerblue;
+}
+
+#contenuGauche
+{
+    padding-left: 10px;
+    height: 300px;
+    width: 220px;
+    float: left;
+    text-align: left;
+    background-color: #188bad;
+
+}
+#pied
+{
+    width: 500px;
+    height: 200px;
+    text-align: center;
+}
+.enligne
+{
+    display: inline;
+    margin-right: 30px;
+}
+p
+{
+    text-align: center;
+}
+#photo
+{
+    margin-right: 500px;
+}
+#CV{
+    text-align: left;
+}
+#bloc{
+    text-decoration: underline;
+}
